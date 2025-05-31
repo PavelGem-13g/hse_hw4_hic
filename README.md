@@ -12,6 +12,18 @@
 
 Для анализа были использованы файлы 4DNFI4HZHGLC и 4DNFIJPZ4ASS.
 
+Эти файлы были загружены с [data.4dnucleome.org](https://data.4dnucleome.org/).
+
+Визуализируем эти файлы при помощи HiGlass.
+
+### Первый файл
+
+![](/screen/4DNFI4HZHGLC.png)
+
+### Второй файл
+
+![](/screen/4DNFIJPZ4ASS.png)
+
 ## Получение информации и атрибутов матрицы Hi-C с помощью cooler.info
 
 С помощью cooler.info получим следующие данные:
